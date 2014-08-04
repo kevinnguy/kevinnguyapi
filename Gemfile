@@ -41,5 +41,5 @@ gem 'spring',        group: :development
 gem 'rails_12factor', group: :production
 
 gem 'unicorn'
-
+gem 'awesome_print'
 ruby "2.1.1"
